@@ -16,7 +16,7 @@ This is a simple Python application built using Tkinter and Pytube that allows u
 - Tkinter (usually included with Python installation)
 ## Usage
 
-1. Clone the repository: git clone https: [e.g.] //github.com/ahmedharres/Youtube-Downloader.git
+1. Clone the repository: git clone https://github.com/ahmedharres/Youtube-Downloader.git
 2. Navigate to the project directory: Youtube-Downloader-main\youtube-downloader\env
 3. Run the application: paython app.py
 
